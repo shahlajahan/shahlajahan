@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shahla 👋
 
-<!--
-**shahlajahan/shahlajahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter developer building PetSupo 🐾
 
-Here are some ideas to get you started:
+PetSupo is a modern pet-tech platform focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Veterinary systems
+* Pet business infrastructure
+* Social features for pet owners
+* Booking & marketplace flows
+* Flutter + Firebase architecture
+
+## Tech Stack
+
+* Flutter
+* Firebase
+* Firestore
+* Cloud Functions
+* FCM
+* App Check
+* Google Mobile Ads
+
+## Current Focus
+
+Building scalable infrastructure for pet businesses and pet owners in Turkey.
