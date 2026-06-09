@@ -1,6 +1,7 @@
 # Hi, I'm Shahla 👋
 
-Flutter developer building PetSupo 🐾
+Founder Engineer building ecosystem-scale products with Flutter & Firebase.
+Creator of PetSupo, a unified pet-tech platform connecting pet owners and businesses. 🐾
 
 PetSupo is a modern pet-tech platform focused on:
 
