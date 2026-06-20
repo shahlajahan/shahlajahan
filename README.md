@@ -1,26 +1,38 @@
 # Hi, I'm Shahla 👋
 
-Founder Engineer building ecosystem-scale products with Flutter & Firebase.
-Creator of PetSupo, a unified pet-tech platform connecting pet owners and businesses. 🐾
+Founder & Flutter Engineer building PetSupo 🐾
 
-PetSupo is a modern pet-tech platform focused on:
+PetSupo is a pet-tech ecosystem designed to connect pet owners, veterinarians, groomers, adoption centers, and pet businesses through a single platform.
 
-* Veterinary systems
-* Pet business infrastructure
-* Social features for pet owners
-* Booking & marketplace flows
-* Flutter + Firebase architecture
+🇹🇷 Currently launching in Turkey
 
-## Tech Stack
+## 🚀 PetSupo
 
-* Flutter
-* Firebase
-* Firestore
-* Cloud Functions
-* FCM
-* App Check
-* Google Mobile Ads
+PetSupo includes:
 
-## Current Focus
+- Veterinary Management
+- Grooming Services
+- Adoption Network
+- Lost & Found System
+- Pet Business Infrastructure
+- Community & Social Features
+- Booking & Marketplace Flows
 
-Building scalable infrastructure for pet businesses and pet owners in Turkey.
+## 🛠 Tech Stack
+
+- Flutter
+- Firebase
+- Firestore
+- Cloud Functions
+- FCM
+- App Check
+- Google Mobile Ads
+
+## 📍 Current Focus
+
+Building scalable infrastructure for pet owners and pet businesses across Turkey.
+
+## 🔗 Links
+
+- Website: https://petsupo.com
+- Instagram: @petsupo.app
