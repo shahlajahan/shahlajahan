@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./ChatGPT Image Jun 24, 2026 at 10_13_06 PM.png" width="100%" />
+</p>
+
+<br>
 # Hi, I'm Shahla 👋
 
 Founder & Flutter Engineer building PetSupo 🐾
